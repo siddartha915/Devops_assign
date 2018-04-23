@@ -1,7 +1,0 @@
-this is feature 1 section
-
-this section contains code for an updated feature 1 code
-
-this will add some more functions to feature 1
-
-the end
